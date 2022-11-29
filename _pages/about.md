@@ -19,7 +19,7 @@ My research interest includes:
 Oct. 2022. NeurIPS2022 Top reviewer \\
 Sep. 2022. **Google Ph.D. fellowship** \\
 Aug. 2022. Research internship at **Meta AI**, Seattle, WA, USA \\
-Feb. 2022. AI/CS/EE Rising star 2022 supported by **Google exploreCSR** \\
+Feb. 2022. AI/CS/EE Rising star 2022 supported by **Google Explore Computer Science Research** \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
 Oct. 2021. Best presentation award at KAIST-ADD workshop \\
 Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
@@ -48,7 +48,7 @@ NeurIPS, 2022
 - <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
 One of the five recipients from Republic of Korea, 2022
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
-Google exploreCSR, 2022
+Google Explore Computer Science Research, 2022
 - **The Best Presentation Award** \\
 KAIST-Korea Agency for Defence Development Workshop, 2021
 - **NAVER Ph.D. Fellowship** \\
@@ -145,10 +145,11 @@ arXiv 2022
 **Conference Reviewer**
 - International Conference on Machine Learning (**ICML**) 2020, 2021 (expert), 2022
 - Neural Information Processing Systems (**NeurIPS**) 2020, 2021, 2022
-- International Conference on Learning Representations (**ICLR**) 2021, 2022
+- International Conference on Learning Representations (**ICLR**) 2021, 2022, 2023
 - AAAI Conference on Artificial Intelligence (**AAAI**) 2021
 - Asian Conference on Machine Learning (**ACML**) 2020
-
+- The IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**) 2023
+- 
 **Journal Reviewer**
 - Transactions on Machine Learning Research (**TMLR**)
 
