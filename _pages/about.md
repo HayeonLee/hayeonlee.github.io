@@ -146,7 +146,7 @@ arXiv 2022
 - International Conference on Machine Learning (**ICML**) 2020, 2021 (expert), 2022
 - Neural Information Processing Systems (**NeurIPS**) 2020, 2021, 2022
 - International Conference on Learning Representations (**ICLR**) 2021, 2022, 2023
-- The IEEE / CVF Computer Vision and Pattern Recognition Conference (**CVPR**) 2023
+- Computer Vision and Pattern Recognition Conference (**CVPR**) 2023
 - AAAI Conference on Artificial Intelligence (**AAAI**) 2021
 - Asian Conference on Machine Learning (**ACML**) 2020
 
