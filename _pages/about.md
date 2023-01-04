@@ -143,20 +143,13 @@ arXiv 2022
 
 ## Academic Services
 **Conference Reviewer**
-- **International Conference on Machine Learning (ICML)** \\
-  - 2020, 2021 (expert), 2022, 2023
-- **Neural Information Processing Systems (NeurIPS)** \\
-  - 2020, 2021, 2022
-- **International Conference on Learning Representations (ICLR)** \\
-  - 2021, 2022, 2023
-- **Association for Computational Linguistics (ACL)** \\
-  - 2022 Dec ARR.
-- **Computer Vision and Pattern Recognition Conference (CVPR)** \\
-  - 2023
-- **AAAI Conference on Artificial Intelligence (AAAI)** \\
-  - 2021
-- **Asian Conference on Machine Learning (ACML)** \\
-  - 2020
+- **ICML** 2020, 2021 (expert), 2022, 2023
+- **NeurIPS** 2020, 2021, 2022
+- **ICLR** 2021, 2022, 2023
+- **ACL** 2022 Dec ARR.
+- **CVPR** 2023
+- **AAAI)** 2021
+- **ACML** 2020
 
 
 **Journal Reviewer**
