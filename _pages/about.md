@@ -16,10 +16,11 @@ My research interest includes:
 - AutoML
 
 ## News
+Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
 Oct. 2022. NeurIPS2022 Top reviewer \\
 Sep. 2022. **Google Ph.D. fellowship** \\
 Aug. 2022. Research internship at **MetaAI**, Seattle, WA, USA \\
-Feb. 2022. AI/CS/EE Rising star 2022 supported by **Google Explore Computer Science Research** \\
+Feb. 2022. **AI/CS/EE Rising star 2022** supported by Google Explore Computer Science Research \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
 Oct. 2021. Best presentation award at KAIST-ADD workshop \\
 Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
@@ -43,6 +44,8 @@ Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
+Google Explore Computer Science Research, 2023
 - <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
 NeurIPS, 2022
 - <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
