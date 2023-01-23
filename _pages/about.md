@@ -16,6 +16,7 @@ My research interest includes:
 - AutoML
 
 ## News
+Jan. 2023. One paper accepted to **ICLR 2023** as <span style="color:red">Notable-top-25% - Spotlight Presentation</span> \\
 Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
 Oct. 2022. NeurIPS2022 Top reviewer \\
 Sep. 2022. **Google Ph.D. fellowship** \\
@@ -70,6 +71,11 @@ ICLR, 2020
 
 
 ## International Conference Publications
+- **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
+<a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+Hayeon Lee*, Sohyun An*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:darkred">**ICLR**</span> 2023, <span style="color:red">_Spotlight Presentation_</span> (notable-top-25%) 
+
 - **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
