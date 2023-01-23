@@ -45,13 +45,13 @@ Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 203**</a> \\
 Google Explore Computer Science Research, 2023
 - <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
 NeurIPS, 2022
 - <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
 One of the five recipients from Republic of Korea, 2022
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award**</a> \\
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 2022**</a> \\
 Google Explore Computer Science Research, 2022
 - **The Best Presentation Award** \\
 KAIST-Korea Agency for Defence Development Workshop, 2021
