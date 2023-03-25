@@ -16,7 +16,8 @@ My research interest includes:
 - AutoML
 
 ## News
-Jan. 2023. One paper accepted to **ICLR 2023** as <span style="color:red">Notable-top-25% - Spotlight Presentation</span> \\
+Feb. 2023. Selected as the <span style="color:red">**Keynote Speaker**</span> for the AutoML conference 2023 \\
+Jan. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
 Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
 Oct. 2022. NeurIPS2022 Top reviewer \\
 Sep. 2022. **Google Ph.D. fellowship** \\
@@ -47,7 +48,7 @@ Mar. 2012 - Feb. 2016
 ## Awards & Honors
 - <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">**Keynote Speaker**</a> \\
 AutoML Conference, 2023
-- <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">**Online Experience Chair**</a> \\
+- <a href="https://2023.automl.cc/organizers/" style="color: #7289da; text-decoration: none;">**Online Experience Chair**</a> \\
 AutoML Conference, 2023
 - <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 2023**</a> \\
 Google Explore Computer Science Research, 2023
