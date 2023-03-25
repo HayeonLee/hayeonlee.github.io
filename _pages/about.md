@@ -45,7 +45,11 @@ Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 203**</a> \\
+- <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">**Keynote Speaker**</a> \\
+AutoML Conference, 2023
+- <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">**Online Experience Chair**</a> \\
+AutoML Conference, 2023
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 2023**</a> \\
 Google Explore Computer Science Research, 2023
 - <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
 NeurIPS, 2022
