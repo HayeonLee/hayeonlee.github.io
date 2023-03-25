@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.  I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
+I'm a Ph.D Candidate at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: Aug. 2023). I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
 
 My research interest includes:
 - Neural architecture search
@@ -17,8 +17,9 @@ My research interest includes:
 
 ## News
 Feb. 2023. Selected as the <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;"><span style="color:red">**Keynote Speaker**</span></a> for the AutoML conference 2023 \\
-Jan. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
+Feb. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
 Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
+Jan. 2023. One paper accepted to **ICLR 2023** as <span style="color:red">Notable-top-25% - Spotlight Presentation</span> \\
 Oct. 2022. NeurIPS2022 Top reviewer \\
 Sep. 2022. **Google Ph.D. fellowship** \\
 Aug. 2022. Research internship at **MetaAI**, Seattle, WA, USA \\
