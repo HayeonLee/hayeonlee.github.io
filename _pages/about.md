@@ -16,7 +16,7 @@ My research interest includes:
 - AutoML
 
 ## News
-Feb. 2023. Selected as the <span style="color:red">**Keynote Speaker**</span> for the AutoML conference 2023 \\
+Feb. 2023. Selected as the <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;"><span style="color:red">**Keynote Speaker**</span></a> for the AutoML conference 2023 \\
 Jan. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
 Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
 Oct. 2022. NeurIPS2022 Top reviewer \\
