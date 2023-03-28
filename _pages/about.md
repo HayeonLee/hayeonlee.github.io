@@ -159,7 +159,7 @@ arXiv 2022
 ## Academic Services
 **Conference Reviewer**
 - **ICML** 2020, 2021 (expert), 2022, 2023
-- **NeurIPS** 2020, 2021, 2022
+- **NeurIPS** 2020, 2021, 2022, 2023
 - **ICLR** 2021, 2022, 2023
 - **ACL** 2022 Dec ARR.
 - **CVPR** 2023
@@ -170,6 +170,8 @@ arXiv 2022
 **Journal Reviewer**
 - **Transactions on Machine Learning Research (TMLR)**
 
+**Chair**
+- **Online Experience Chair** AutoML Conference 2023
 
 ## Projects
 - Human-Inspired Large-Scale Visual Recognition System, **Samsung Electronics**, 2019-2022
