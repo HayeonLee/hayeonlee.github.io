@@ -126,6 +126,14 @@ AutoML 2022 Workshop
 
 
 ## Preprint
+- **Co-training and Co-distillation for
+Quality Improvement and Compression of Language Models** \\
+<u>Hayeon Lee</u>, Jongpil Kim, Rui Hou, Davis Liang, Hongbo Zhang, Sung Ju Hwang, Alexander Min \\
+ACL 2023 (Submitted) \\
+- **A Study on Knowledge Distillation from Weak Teacher
+for Scaling Up Pre-trained Language Model** \\
+<u>Hayeon Lee</u>, Jongpil Kim, Rui Hou, Davis Liang, Sung Ju Hwang, Alexander Min \\
+ACL 2023 (Submitted) \\
 - **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
