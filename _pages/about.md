@@ -81,7 +81,7 @@ ICLR, 2020
 - **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Model** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
-<span style="color:darkred">**Findings of ACL 2023**</span> 2023
+<span style="color:darkred">**Findings of ACL**</span> 2023
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
