@@ -16,6 +16,7 @@ My research interest includes:
 - AutoML
 
 ## News
+May. 2023. One paper accepted to **Findings of ACL 2023**</span> \\
 Feb. 2023. Selected as the <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;"><span style="color:red">**Keynote Speaker**</span></a> for the AutoML conference 2023 \\
 Feb. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
 Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
@@ -77,6 +78,11 @@ ICLR, 2020
 
 
 ## International Conference Publications
+- **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Model** \\
+<a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
+<span style="color:darkred">**Findings of ACL 2023**</span> 2023
+
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
