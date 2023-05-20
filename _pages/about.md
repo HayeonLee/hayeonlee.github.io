@@ -16,7 +16,8 @@ My research interest includes:
 - AutoML
 
 ## News
-May. 2023. One paper accepted to **Findings of ACL 2023**</span> \\
+May. 2023. One paper accepted to **Findings of ACL 2023** \\
+Apr. 2023. Google Travel Grant for ICLR 2023 from Google \\
 Feb. 2023. Selected as the <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;"><span style="color:red">**Keynote Speaker**</span></a> for the AutoML conference 2023 \\
 Feb. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
 Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
@@ -48,6 +49,8 @@ Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
+- **Google Travel Grant** \\
+ICLR, 2023
 - <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">**Keynote Speaker**</a> \\
 AutoML Conference, 2023
 - <a href="https://2023.automl.cc/organizers/" style="color: #7289da; text-decoration: none;">**Online Experience Chair**</a> \\
