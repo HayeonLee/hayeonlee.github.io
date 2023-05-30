@@ -90,7 +90,7 @@ Sohyun An* <u>Hayeon Lee*</u> Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal c
 - **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Model** \\
 <a href="https://arxiv.org/abs/2305.18239" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
-
+<span style="color:darkred">**Findings of ACL**</span> 2023
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
