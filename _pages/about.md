@@ -79,12 +79,17 @@ ICLR, 2020
 - Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
 - Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
 
+## Preprints
+- **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
+<a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
+<span style="color:darkred">**Findings of ACL**</span> 2023
+
 
 ## International Conference Publications
 - **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Model** \\
-<a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
-<span style="color:darkred">**Findings of ACL**</span> 2023
+<a href="https://arxiv.org/abs/2305.18239" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+Sohyun An* <u>Hayeon Lee*</u> Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) 
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
@@ -161,6 +166,7 @@ arXiv 2022
   
 
 ## News Articles
+- <a href="https://news.kaist.ac.kr/news/html/news/?mode=V&mng_no=23310" style="color: #7289da; text-decoration: none;">전산학부 이하연, 전기및전자공학부 최유정, 2022 구글 PhD 펠로우 선정</a>, AI Times, 2022.09.08
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=141860" style="color: #7289da; text-decoration: none;">KAIST 황성주 교수팀, NeurIPS에 빅테크 오토ML 문제 푼 비결 공개</a>, AI Times, 2021.12.08
 - <a href="http://www.aitimes.com/news/articleView.html?idxno=144306" style="color: #7289da; text-decoration: none;">"NeurIPS에 소개된 국내 연구 성과는?" EIRIC, 5월부터 리뷰 세미나 개최</a>, AI Times, 2022.04.27
 
