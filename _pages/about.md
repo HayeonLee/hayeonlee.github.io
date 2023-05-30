@@ -83,7 +83,7 @@ ICLR, 2020
 - **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
-<span style="color:darkred">**Findings of ACL**</span> 2023
+<span style="color:darkred">**Arxiv**</span> 
 
 
 ## International Conference Publications
