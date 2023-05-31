@@ -15,6 +15,7 @@ My research interest includes:
 - Meta-learning
 - AutoML
 
+
 ## News
 May. 2023. One paper accepted to **Findings of ACL 2023** \\
 Apr. 2023. Google Travel Grant for ICLR 2023 from Google \\
@@ -164,6 +165,9 @@ arXiv 2022
   - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
   - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
   - @ Ewha University in Republic of Korea, June 2022
+
+- **"DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models"** \\
+  - @ Hanbat National University in Republic of Korea, May 2023
   
 
 ## News Articles
