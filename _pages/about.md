@@ -84,7 +84,7 @@ ICLR, 2020
 - **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Sohyun An* <u>Hayeon Lee*</u> Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**Arxiv**</span> 
+<span style="color:darkred">**Arxiv**</span> 2023
 
 
 ## International Conference Publications
