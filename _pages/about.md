@@ -85,7 +85,10 @@ ICLR, 2020
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Sohyun An* <u>Hayeon Lee*</u> Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 2023
-
+- **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
+<a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
+<span style="color:darkred">**Arxiv**</span> 2022
 
 ## International Conference Publications
 - **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models** \\
@@ -139,13 +142,6 @@ CKAIA 2020
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
 AutoML 2022 Workshop
-
-
-## Preprint
-- **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
-<a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
-arXiv 2022
 
 
 ## Invited Talks
