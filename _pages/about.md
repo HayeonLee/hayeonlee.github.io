@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Candidate at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: Aug. 2023). I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>.
+I'm a Ph.D Candidate at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: Aug. 2023). I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. I will join the FAIR team at Meta as a postdoc under the supervision of <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**.
 
 My research interest includes:
 - Neural architecture search
@@ -97,7 +97,7 @@ Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
 <span style="color:darkred">**Findings of ACL**</span> 2023
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
-<a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/CownowAn/DaSS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2023, <span style="color:red">_Spotlight Presentation_</span> (notable-top-25%) 
