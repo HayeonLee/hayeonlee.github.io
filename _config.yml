@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hayeon Lee"
 title_separator          : "-"
 name                     : &name "Hayeon Lee"
-description              : &description "Ph.D. Student at KAIST"
+description              : &description "Postdoctoral Researcher at FAIR"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/HayeonLee"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hayeon Lee"
   avatar           : "hayeonlee.jpg"
-  bio              : "Ph.D student at School of Computing, Korea Advanced Institute of Science and Technology (KAIST)"
+  bio              : "Postdoctoral Researcher at FAIR"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5DaLgBUAAAAJ&hl=ko"
-  email            : "hayeon926@kaist.ac.kr"
+  email            : "hayeonlee@meta.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
