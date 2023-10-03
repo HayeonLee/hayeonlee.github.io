@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hayeon Lee"
 title_separator          : "-"
 name                     : &name "Hayeon Lee"
-description              : &description "Postdoctoral Researcher at FAIR"
+description              : &description "Postdoctoral Researcher at MetaAI (FAIR)"
 url                      : 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/HayeonLee"
