@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently got my Ph.D. in School of Computing at KAIST, advised by <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. I am currently working as a postdoctoral researcher at the Fundamental AI Research (FAIR) team at Meta AI, working with <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**</a>.
+I recently got my Ph.D. in School of Computing at KAIST, advised by <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. I am currently working as a postdoctoral researcher at the Fundamental AI Research (FAIR) team at Meta AI, working with <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**</a>. Here is my <a href="https://www.dropbox.com/scl/fi/n9hb80a707ktbv1ljdsun/Curriculum_Vitae_Hayeon_Lee.pdf?rlkey=xvv1kbr39l5k7t5jdir137ikk&dl=0" style="color: #7289da; text-decoration: none;">**CV**</a> (last update: 2024. Oct. 2)
 
 My research interest includes:
 - Neural architecture search
@@ -188,7 +188,7 @@ AutoML 2022 Workshop
 **Journal Reviewer**
 - **Transactions on Machine Learning Research (TMLR)**
 
-**Chair**
+**Conference Organizer**
 - **Online Experience Chair** AutoML Conference 2023
 
 ## Projects
