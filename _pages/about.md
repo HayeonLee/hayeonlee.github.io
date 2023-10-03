@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Candidate at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a> (Expected graduation date: Aug. 2023). I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. I will join the <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**FAIR**</a> team at Meta as a postdoc under the supervision of <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**</a>.
+I recently got my Ph.D. in School of Computing at KAIST, advised by <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a> (Seattle, WA). My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. I am currently working as a postdoctoral researcher at the Fundamental AI Research (FAIR) team at Meta AI, working with <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**</a>.
 
 My research interest includes:
 - Neural architecture search
