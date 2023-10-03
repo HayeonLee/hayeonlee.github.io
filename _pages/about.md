@@ -40,7 +40,7 @@ Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral P
 
 ## Education
 - **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-Mar. 2018 - Aug. 2023 (expected)
+Mar. 2018 - Aug. 2023
   
 - **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Mar. 2016 - Feb. 2018
@@ -75,6 +75,7 @@ ICLR, 2020
 
 
 ## Work Experiences
+- Postdoctoral Researcher, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**Meta AI (FAIR)**</a>, Menlo Park, CA (Sep 2023 - Present)  
 - Research Intern, <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration: none;">**MetaAI**</a>, Seattle, WA (Aug 2022 - Dec 2022)  
 - Research Intern, <a href="https://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a>, Seoul, South Korea (Dec 2020 - Feb 2021)
 - Research Intern, <a href="https://www.etri.re.kr/intro.html" style="color: #7289da; text-decoration: none;">**National AI Research Institute**</a>, Deajeon, South Korea (Jul 2015 - Jun 2015)
