@@ -12,7 +12,7 @@ I recently got my Ph.D. in School of Computing at KAIST, advised by <a href="htt
 
 My research interest includes:
 - Efficient LLMs
-- Neural architecture search
+- Neural Architecture Search
 - Meta-learning
 
 
