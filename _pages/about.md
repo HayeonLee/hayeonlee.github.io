@@ -18,9 +18,9 @@ My research interest includes:
 
 ## News
 Oct. 2023. One paper accepted to **Findings of EMNLP 2023** \\
-Sep. 2023. I joined **FAIR Labs** at Meta AI as a Postdoctoral Researcher, working with <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**</a>. \\
-Sep. 2023. <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;"><span style="color:red">**Keynote**</span></a> entitled 'Transferable Neural Architecture Search with Diffusion Models for the Real World' at AutoML conference 2023, Germany \\
-May. 2023. Hayeon successfully **defended her Ph.D.** entitled 'Efficient and Generalizable Neural Architecture Search for the Real World' \\
+Sep. 2023. I joined **FAIR Labs** at Meta AI as a Postdoctoral Researcher, working with <a href="http://yuandong-tian.com/" style="color: none; text-decoration: none;">**Yuandong Tian**</a>. \\
+Sep. 2023. **Keynote** at AutoML conference 2023, Germany \\
+May. 2023. Hayeon successfully **defended her Ph.D.** \\
 May. 2023. One paper accepted to **Findings of ACL 2023** \\
 Apr. 2023. Google Travel Grant for ICLR 2023 from Google \\
 Feb. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
@@ -31,14 +31,6 @@ Sep. 2022. **Google Ph.D. fellowship** \\
 Aug. 2022. Research internship at **MetaAI**, Seattle, WA, USA \\
 Feb. 2022. **AI/CS/EE Rising star 2022** supported by Google Explore Computer Science Research \\
 Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span> \\
-Oct. 2021. Best presentation award at KAIST-ADD workshop \\
-Sep. 2021. Two papers accepted to **NeurIPS 2021** as <span style="color:red">Spotlight Presentations</span> \\
-Apr. 2021. Invited talk at Samsung, Suwon, South Korea \\
-Jan. 2021. One paper accepted to **ICLR 2021** \\
-Dec. 2020. Research internship at AITRICS, Seoul, South Korea \\
-Dec. 2020. ICML2020 oustanding reviewer (Top 30%) \\
-Nov. 2020. NAVER Ph.D. fellowship \\
-Dec. 2019. One paper accepted to **ICLR 2020** as <span style="color:red">Oral Presentation</span>
 
 
 ## Education
