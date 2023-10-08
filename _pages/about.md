@@ -11,15 +11,18 @@ redirect_from:
 I recently got my Ph.D. in School of Computing at KAIST, advised by <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>. I was a research intern at <a href="https://ai.facebook.com/" style="color: #7289da; text-decoration:none">**MetaAI**</a>. My research has been supported by <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration:none">**Google Ph.D. Fellowship**</a>. I am currently working as a postdoctoral researcher at the Fundamental AI Research (FAIR) team at Meta AI, working with <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**</a>. Here is my <a href="https://www.dropbox.com/scl/fi/n9hb80a707ktbv1ljdsun/Curriculum_Vitae_Hayeon_Lee.pdf?rlkey=xvv1kbr39l5k7t5jdir137ikk&dl=0" style="color: #7289da; text-decoration: none;">**CV**</a> (last update: 2023. Oct. 2).
 
 My research interest includes:
+- Efficient LLMs
 - Neural architecture search
 - Meta-learning
-- AutoML
 
 
 ## News
+Oct. 2023. One paper accepted to **Findings of EMNLP 2023** \\
+Sep. 2023. I joined **FAIR Labs** at Meta AI as a Postdoctoral Researcher, working with <a href="http://yuandong-tian.com/" style="color: #7289da; text-decoration: none;">**Yuandong Tian**</a>. \\
+Sep. 2023. <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;"><span style="color:red">**Keynote**</span></a> entitled 'Transferable Neural Architecture Search with Diffusion Models for the Real World' at AutoML conference 2023, Germany \\
+May. 2023. Hayeon successfully **defended her Ph.D.** entitled 'Efficient and Generalizable Neural Architecture Search for the Real World' \\
 May. 2023. One paper accepted to **Findings of ACL 2023** \\
 Apr. 2023. Google Travel Grant for ICLR 2023 from Google \\
-Feb. 2023. Selected as the <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;"><span style="color:red">**Keynote Speaker**</span></a> for the AutoML conference 2023 \\
 Feb. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
 Jan. 2023. **AI/CS/EE Rising star 2023** supported by Google Explore Computer Science Research \\
 Jan. 2023. One paper accepted to **ICLR 2023** as <span style="color:red">Notable-top-25% - Spotlight Presentation</span> \\
