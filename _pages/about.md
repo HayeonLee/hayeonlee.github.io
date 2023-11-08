@@ -88,8 +88,9 @@ Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
 
 ## International Conference Publications
 - **Co-training and Co-distillation for Quality Improvement and Compression of Language Models** \\
+- <a href="https://arxiv.org/abs/2311.02849" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 <u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Hongbo Zhang, Sung Ju Hwang and Alexander Min \\
-<span style="color:darkred">**Findings of EMNLP**</span> 2023 (long paper; To be appeared)
+<span style="color:darkred">**Findings of EMNLP**</span> 2023 (long paper)
 
 - **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models** \\
 <a href="https://arxiv.org/abs/2305.18239" style="color: #7289da; text-decoration: none;">[paper]</a> \\
@@ -144,6 +145,9 @@ CKAIA 2020
 <u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
 AutoML 2022 Workshop
 
+## Keynote
+- **"Transferable Neural Architecture Search with Diffusion Models for the Real World"** \\
+  - @ AutoML conference 2023, Germany, September 2023
 
 ## Invited Talks
 - **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
@@ -177,7 +181,7 @@ AutoML 2022 Workshop
 **Conference Reviewer**
 - **ICML** 2020, 2021 (expert), 2022, 2023
 - **NeurIPS** 2020, 2021, 2022, 2023
-- **ICLR** 2021, 2022, 2023
+- **ICLR** 2021, 2022, 2023, 2024
 - **ACL** 2022 Dec ARR.
 - **CVPR** 2023
 - **AAAI** 2021
