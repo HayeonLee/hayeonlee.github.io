@@ -79,70 +79,70 @@ ICLR, 2020
 ## Preprints
 - **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Sohyun An* <u>Hayeon Lee*</u> Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
+Sohyun An* **Hayeon Lee\*** Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 2023
 - **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Stephen Cha, Taehyeon Kim, <u>Hayeon Lee</u>, Se-Young Yun \\
+Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 <span style="color:darkred">**Arxiv**</span> 2022
 
 ## International Conference Publications
 - **Co-training and Co-distillation for Quality Improvement and Compression of Language Models** \\
 <a href="https://arxiv.org/abs/2311.02849" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Hongbo Zhang, Sung Ju Hwang and Alexander Min \\
+**Hayeon Lee**, Rui Hou, Jongpil Kim, Davis Liang, Hongbo Zhang, Sung Ju Hwang and Alexander Min \\
 <span style="color:darkred">**Findings of EMNLP**</span> 2023 (long paper)
 
 - **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models** \\
 <a href="https://arxiv.org/abs/2305.18239" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee</u>, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
+**Hayeon Lee**, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
 <span style="color:darkred">**Findings of ACL**</span> 2023
 
 - **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/CownowAn/DaSS" style="color: #7289da; text-decoration: none;">[code]</a> \\
-<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
+**Hayeon Lee\***, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2023, <span style="color:red">_Spotlight Presentation_</span> (notable-top-25%) 
 
 - **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Hae Beom Lee, <u>Hayeon Lee</u>, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
+Hae Beom Lee, **Hayeon Lee**, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
 <span style="color:darkred">**ICLR**</span> 2022, <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%) 
 
 - **HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning** \\
 <a href="https://arxiv.org/abs/2106.08630" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/HayeonLee/HELP" style="color: #7289da; text-decoration: none;">[code]</a> \\
-<u>Hayeon Lee*</u>, Sewoong Lee\*, Song Chong, Sung Ju Hwang (\*: equal contribution) \\
+**Hayeon Lee\***, Sewoong Lee\*, Song Chong, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">_Spotlight Presentation_</span> (acceptance < 3%)
 
 - **Task-Adaptive Neural Network Search with Meta-Contrastive Learning** \\
 <a href="https://arxiv.org/abs/2103.01495" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/wyjeong/TANS" style="color: #7289da; text-decoration: none;">[code]</a> \\
-Wonyong Jeong\*, <u>Hayeon Lee*</u>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang (\*: equal contribution) \\
+Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">_Spotlight Presentation_</span> (acceptance < 3%) 
 
 - **Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets** \\
 <a href="https://openreview.net/forum?id=rkQuFUmUOg3" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/HayeonLee/MetaD2A" style="color: #7289da; text-decoration: none;">[code]</a> \\
-<u>Hayeon Lee*</u>, Eunyoung Hyung\*, Sung Ju Hwang (\*: equal contribution) \\
+**Hayeon Lee\***, Eunyoung Hyung\*, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
 - **Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks** \\
 <a href="https://openreview.net/pdf?id=rkeZIJBYvr" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/haebeom-lee/l2b" style="color: #7289da; text-decoration: none;">[code]</a> \\
-Hae Beom Lee\*, <u>Hayeon Lee*</u>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
+Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, <span style="color:red">_Oral Presentation_</span> (acceptance = 48/2594 = 1.9%)
 
 ## Domestic Conference Publication
 
 - **Learning Spatial Relationships for Cross Modal Retrieval** \\
-<u>Hayeon Lee*</u>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
+**Hayeon Lee\***, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
 CKAIA 2020
 
 
 ## Workshop Publication
 - **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-<u>Hayeon Lee*</u>, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
+**Hayeon Lee\***, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
 AutoML 2022 Workshop
 
 ## Keynote
