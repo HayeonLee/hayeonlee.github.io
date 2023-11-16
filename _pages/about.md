@@ -34,38 +34,38 @@ Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotli
 
 
 ## Education
-- **Ph.D.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+- Ph.D. in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">Korea Advanced Institute of Science and Technology (KAIST)</a> \\
 Mar. 2018 - Aug. 2023
   
-- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+- M.S. in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">Korea Advanced Institute of Science and Technology (KAIST)</a> \\
 Mar. 2016 - Feb. 2018
 
-- **B.S.** in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">**Sungkyunkwan University**</a> \\
+- B.S. in Computer Science, <a href="https://www.skku.edu/eng/" style="color: #7289da; text-decoration: none;">Sungkyunkwan University</a> \\
 Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
-- **Google Travel Grant** \\
+- Google Travel Grant \\
 ICLR, 2023
-- <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">**Keynote Speaker**</a> \\
+- <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">Keynote Speaker</a> \\
 AutoML Conference, 2023
-- <a href="https://2023.automl.cc/organizers/" style="color: #7289da; text-decoration: none;">**Online Experience Chair**</a> \\
+- <a href="https://2023.automl.cc/organizers/" style="color: #7289da; text-decoration: none;">Online Experience Chair</a> \\
 AutoML Conference, 2023
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 2023**</a> \\
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">AI/CS/EE Rising Stars Award 2023</a> \\
 Google Explore Computer Science Research, 2023
-- <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">**Top Reviewer**</a> \\
+- <a href="https://nips.cc/Conferences/2022/ProgramCommittee" style="color: #7289da; text-decoration: none;">Top Reviewer</a> \\
 NeurIPS, 2022
-- <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">**Google Ph.D. Fellowship**</a> \\
+- <a href="https://research.google/outreach/phd-fellowship/recipients/" style="color: #7289da; text-decoration: none;">Google Ph.D. Fellowship</a> \\
 One of the five recipients from Republic of Korea, 2022
-- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">**AI/CS/EE Rising Stars Award 2022**</a> \\
+- <a href="https://womentechstars.github.io/" style="color: #7289da; text-decoration: none;">AI/CS/EE Rising Stars Award 2022</a> \\
 Google Explore Computer Science Research, 2022
-- **The Best Presentation Award** \\
+- The Best Presentation Award \\
 KAIST-Korea Agency for Defence Development Workshop, 2021
-- **NAVER Ph.D. Fellowship** \\
+- NAVER Ph.D. Fellowship \\
 One of the ten Ph.D. students with outstanding research outcome in KAIST CS Dept., 2020
-- **Outstanding Reviewer (Top 30%)** \\
+- Outstanding Reviewer (Top 30%) \\
 ICML, 2020
-- **Kyunghyun Cho Travel Grant** \\
+- Kyunghyun Cho Travel Grant \\
 ICLR, 2020
 
 
