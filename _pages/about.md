@@ -87,46 +87,46 @@ Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 <span style="color:darkred">**Arxiv**</span> 2022
 
 ## International Conference Publications
-- **Co-training and Co-distillation for Quality Improvement and Compression of Language Models** \\
+- Co-training and Co-distillation for Quality Improvement and Compression of Language Models \\
 <a href="https://arxiv.org/abs/2311.02849" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 **Hayeon Lee**, Rui Hou, Jongpil Kim, Davis Liang, Hongbo Zhang, Sung Ju Hwang and Alexander Min \\
 <span style="color:darkred">**Findings of EMNLP**</span> 2023 (long paper)
 
-- **A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models** \\
+- A Study on Knowledge Distillation from Weak Teacher for Scaling Up Pre-trained Language Models \\
 <a href="https://arxiv.org/abs/2305.18239" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 **Hayeon Lee**, Rui Hou, Jongpil Kim, Davis Liang, Sung Ju Hwang and Alexander Min \\
 <span style="color:darkred">**Findings of ACL**</span> 2023
 
-- **Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets** \\
+- Meta-Prediction Model for Distillation-aware NAS on Unseen Datasets \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/CownowAn/DaSS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 **Hayeon Lee\***, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2023, <span style="color:red">_Spotlight Presentation_</span> (notable-top-25%) 
 
-- **Online Hyperparameter Meta-Learning with Hypergradient Distillation** \\
+- Online Hyperparameter Meta-Learning with Hypergradient Distillation \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Hae Beom Lee, **Hayeon Lee**, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
 <span style="color:darkred">**ICLR**</span> 2022, <span style="color:red">_Spotlight Presentation_</span> (acceptance = 176 / 3391 = 5.1%) 
 
-- **HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning** \\
+- HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning \\
 <a href="https://arxiv.org/abs/2106.08630" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/HayeonLee/HELP" style="color: #7289da; text-decoration: none;">[code]</a> \\
 **Hayeon Lee\***, Sewoong Lee\*, Song Chong, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">_Spotlight Presentation_</span> (acceptance < 3%)
 
-- **Task-Adaptive Neural Network Search with Meta-Contrastive Learning** \\
+- Task-Adaptive Neural Network Search with Meta-Contrastive Learning \\
 <a href="https://arxiv.org/abs/2103.01495" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/wyjeong/TANS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:red">_Spotlight Presentation_</span> (acceptance < 3%) 
 
-- **Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets** \\
+- Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets \\
 <a href="https://openreview.net/forum?id=rkQuFUmUOg3" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/HayeonLee/MetaD2A" style="color: #7289da; text-decoration: none;">[code]</a> \\
 **Hayeon Lee\***, Eunyoung Hyung\*, Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
-- **Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks** \\
+- Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks \\
 <a href="https://openreview.net/pdf?id=rkeZIJBYvr" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/haebeom-lee/l2b" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
@@ -134,40 +134,40 @@ Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunh
 
 ## Domestic Conference Publication
 
-- **Learning Spatial Relationships for Cross Modal Retrieval** \\
+- Learning Spatial Relationships for Cross Modal Retrieval \\
 **Hayeon Lee\***, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang (\*: equal contribution) \\
 CKAIA 2020
 
 
 ## Workshop Publication
-- **Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation** \\
+- Lightweight Neural Architecture Search with Parameter Remapping and Knowledge Distillation \\
 <a href="https://openreview.net/forum?id=3D2Qz9y001S" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 **Hayeon Lee\***, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution)\\
 AutoML 2022 Workshop
 
 ## Keynote
-- **"Transferable Neural Architecture Search with Diffusion Models for the Real World"** \\
+- "Transferable Neural Architecture Search with Diffusion Models for the Real World" \\
   - @ AutoML conference 2023, Germany, September 2023
 
 ## Invited Talks
-- **"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"** \\
+- "Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets" \\
   - @ Samsung Electronics DS DIT Center, Korea, April 2021
   - @ Korea Agency for Defence Development, Korea, October 2021
   
-- **"Task-Adaptive Neural Network Search with Meta-Contrastive Learning"** \\
+- "Task-Adaptive Neural Network Search with Meta-Contrastive Learning" \\
   - @ NeurIPS Social: ML in Korea, Dec 2021
   - @ Hanbat National University in Republic of Korea, April 2022
   - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
   - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
 
-- **"HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning"** \\
+- "HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning" \\
   - @ NeurIPS Social: ML in Republic of Korea, Dec 2021
   - @ Hanbat National University in Republic of Korea, April 2022
   - @ KAIST Programming Language Research Group in Republic of Korea, May 2022
   - @ Electronic & Information Research Information Center in Republic of Korea, May 2022
   - @ Ewha University in Republic of Korea, June 2022
 
-- **"DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models"** \\
+- "DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models" \\
   - @ Hanbat National University in Republic of Korea, May 2023
   
 
