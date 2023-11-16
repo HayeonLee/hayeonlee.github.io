@@ -77,11 +77,11 @@ ICLR, 2020
 - Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">**Samsung Electronics**</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
 
 ## Preprints
-- **DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models** \\
+- DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Sohyun An* **Hayeon Lee\*** Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**Arxiv**</span> 2023
-- **SuperNet in Neural Architecture Search: A Taxonomic Survey** \\
+- SuperNet in Neural Architecture Search: A Taxonomic Survey \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 <span style="color:darkred">**Arxiv**</span> 2022
