@@ -179,22 +179,22 @@ AutoML 2022 Workshop
 
 ## Academic Services
 **Conference Reviewer**
-- **ICML** 2020, 2021 (expert), 2022, 2023
-- **NeurIPS** 2020, 2021, 2022, 2023
-- **ICLR** 2021, 2022, 2023, 2024
-- **ACL** 2022 Dec ARR.
-- **CVPR** 2023
-- **AAAI** 2021
-- **ACML** 2020
+- ICML 2020, 2021 (expert), 2022, 2023
+- NeurIPS 2020, 2021, 2022, 2023
+- ICLR 2021, 2022, 2023, 2024
+- ACL 2022 Dec ARR.
+- CVPR 2023
+- AAAI 2021
+- ACML 2020
 
 
 **Journal Reviewer**
-- **Transactions on Machine Learning Research (TMLR)**
+- Transactions on Machine Learning Research (TMLR)
 
 **Conference Organizer**
-- **Online Experience Chair** AutoML Conference 2023
+- Online Experience Chair, AutoML Conference 2023
 
 ## Projects
-- Human-Inspired Large-Scale Visual Recognition System, **Samsung Electronics**, 2019-2022
+- Human-Inspired Large-Scale Visual Recognition System, Samsung Electronics, 2019-2022
 
-- AutoML with Large-scale Hyperparameter Meta-Learning, **Google**, 2022-Present
+- AutoML with Large-scale Hyperparameter Meta-Learning, Google, 2022-2023
