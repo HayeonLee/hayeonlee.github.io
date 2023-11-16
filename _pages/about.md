@@ -17,20 +17,20 @@ My research interest includes:
 
 
 ## News
-Oct. 2023. One paper accepted to **Findings of EMNLP 2023** \\
-Sep. 2023. I joined **FAIR Labs** at Meta AI as a postdoctoral researcher, working with **Yuandong Tian**. \\
-Sep. 2023. **Keynote** at AutoML conference 2023, Germany \\
-May. 2023. Hayeon successfully **defended her Ph.D.** \\
-May. 2023. One paper accepted to **Findings of ACL 2023** \\
+Oct. 2023. One paper accepted to Findings of EMNLP 2023 \\
+Sep. 2023. I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
+Sep. 2023. Keynote at AutoML conference 2023, Germany \\
+May. 2023. Hayeon successfully defended her Ph.D. \\
+May. 2023. One paper accepted to Findings of ACL 2023 \\
 Apr. 2023. Google Travel Grant for ICLR 2023 from Google \\
 Feb. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
-Jan. 2023. **AI/CS/EE Rising Stars 2023** supported by Google Explore Computer Science Research \\
-Jan. 2023. One paper accepted to **ICLR 2023** as <span style="color:red">Notable-top-25% - Spotlight Presentation</span> \\
+Jan. 2023. AI/CS/EE Rising Stars 2023 supported by Google Explore Computer Science Research \\
+Jan. 2023. One paper accepted to ICLR 2023 as <span style="color:darkred">Notable-top-25% - Spotlight Presentation</span> \\
 Oct. 2022. NeurIPS2022 Top reviewer \\
-Sep. 2022. **Google Ph.D. fellowship** \\
-Aug. 2022. Research internship at **MetaAI**, Seattle, WA, USA \\
-Feb. 2022. **AI/CS/EE Rising Stars 2022** supported by Google Explore Computer Science Research \\
-Jan. 2022. One paper accepted to **ICLR 2022** as <span style="color:red">Spotlight Presentation</span>
+Sep. 2022. Google Ph.D. fellowship \\
+Aug. 2022. Research internship at MetaAI, Seattle, WA, USA \\
+Feb. 2022. AI/CS/EE Rising Stars 2022 supported by Google Explore Computer Science Research \\
+Jan. 2022. One paper accepted to ICLR 2022 as <span style="color:darkred">Spotlight Presentation</span>
 
 
 ## Education
