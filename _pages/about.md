@@ -101,24 +101,24 @@ Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/CownowAn/DaSS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 **Hayeon Lee\***, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2023, <span style="color:darkred">**Spotlight**</span> (notable-top-25%) 
+<span style="color:darkred">**ICLR**</span> 2023, <span style="color:darkred">Spotlight</span> (notable-top-25%) 
 
 - Online Hyperparameter Meta-Learning with Hypergradient Distillation \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Hae Beom Lee, **Hayeon Lee**, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
-<span style="color:darkred">**ICLR**</span> 2022, <span style="color:darkred">**Spotlight**</span> (acceptance = 176 / 3391 = 5.1%) 
+<span style="color:darkred">**ICLR**</span> 2022, <span style="color:darkred">Spotlight</span> (acceptance = 176 / 3391 = 5.1%) 
 
 - HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning \\
 <a href="https://arxiv.org/abs/2106.08630" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/HayeonLee/HELP" style="color: #7289da; text-decoration: none;">[code]</a> \\
 **Hayeon Lee\***, Sewoong Lee\*, Song Chong, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">**Spotlight**</span> (acceptance < 3%)
+<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">Spotlight</span> (acceptance < 3%)
 
 - Task-Adaptive Neural Network Search with Meta-Contrastive Learning \\
 <a href="https://arxiv.org/abs/2103.01495" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/wyjeong/TANS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">**Spotlight**</span> (acceptance < 3%) 
+<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">Spotlight</span> (acceptance < 3%) 
 
 - Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets \\
 <a href="https://openreview.net/forum?id=rkQuFUmUOg3" style="color: #7289da; text-decoration: none;">[paper]</a>
@@ -130,7 +130,7 @@ Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sun
 <a href="https://openreview.net/pdf?id=rkeZIJBYvr" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/haebeom-lee/l2b" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2020, <span style="color:darkred">**Oral**</span> (acceptance = 48/2594 = 1.9%)
+<span style="color:darkred">**ICLR**</span> 2020, <span style="color:darkred">Oral</span> (acceptance = 48/2594 = 1.9%)
 
 ## Domestic Conference Publication
 
