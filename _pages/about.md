@@ -17,20 +17,21 @@ My research interest includes:
 
 
 ## News
-Oct. 2023. One paper accepted to Findings of EMNLP 2023 \\
-Sep. 2023. I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
-Sep. 2023. Keynote at AutoML conference 2023, Germany \\
-May. 2023. Hayeon successfully defended her Ph.D. \\
-May. 2023. One paper accepted to Findings of ACL 2023 \\
-Apr. 2023. Google Travel Grant for ICLR 2023 from Google \\
-Feb. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
-Jan. 2023. AI/CS/EE Rising Stars 2023 supported by Google Explore Computer Science Research \\
-Jan. 2023. One paper accepted to ICLR 2023 as <span style="color:darkred">Notable-top-25% - Spotlight Presentation</span> \\
-Oct. 2022. NeurIPS2022 Top reviewer \\
-Sep. 2022. Google Ph.D. fellowship \\
-Aug. 2022. Research internship at MetaAI, Seattle, WA, USA \\
-Feb. 2022. AI/CS/EE Rising Stars 2022 supported by Google Explore Computer Science Research \\
-Jan. 2022. One paper accepted to ICLR 2022 as <span style="color:darkred">Spotlight Presentation</span>
+1. 2024. One paper accepted to ICLR 2024 \\
+10. 2023. One paper accepted to Findings of EMNLP 2023 \\
+09. 2023. I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
+09. 2023. Keynote at AutoML conference 2023, Germany \\
+05. 2023. Hayeon successfully defended her Ph.D. \\
+05. 2023. One paper accepted to Findings of ACL 2023 \\
+04. 2023. Google Travel Grant for ICLR 2023 from Google \\
+02. 2023. Selected as the online experience chair for the AutoML conference 2023 \\
+01. 2023. AI/CS/EE Rising Stars 2023 supported by Google Explore Computer Science Research \\
+01. 2023. One paper accepted to ICLR 2023 as <span style="color:darkred">Notable-top-25% - Spotlight Presentation</span> \\
+10. 2022. NeurIPS2022 Top reviewer \\
+09. 2022. Google Ph.D. fellowship \\
+08. 2022. Research internship at MetaAI, Seattle, WA, USA \\
+02. 2022. AI/CS/EE Rising Stars 2022 supported by Google Explore Computer Science Research \\
+01. 2022. One paper accepted to ICLR 2022 as <span style="color:darkred">Spotlight Presentation</span>
 
 
 ## Education
@@ -77,16 +78,17 @@ ICLR, 2020
 - Developer Intern, <a href="https://developer.samsung.com/" style="color: #7289da; text-decoration: none;">Samsung Electronics</a>, Suwon, South Korea (Jan 2015 - Feb 2015)
 
 ## Preprints
-- DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models \\
-<a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
-Sohyun An* **Hayeon Lee\*** Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**Arxiv**</span> 2023
 - SuperNet in Neural Architecture Search: A Taxonomic Survey \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 <span style="color:darkred">**Arxiv**</span> 2022
 
 ## International Conference Publications
+- DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models \\
+<a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+Sohyun An* **Hayeon Lee\*** Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
+<span style="color:darkred">**ICLR**</span> 2024 (to be appeared)
+
 - Co-training and Co-distillation for Quality Improvement and Compression of Language Models \\
 <a href="https://arxiv.org/abs/2311.02849" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 **Hayeon Lee**, Rui Hou, Jongpil Kim, Davis Liang, Hongbo Zhang, Sung Ju Hwang and Alexander Min \\
@@ -101,24 +103,24 @@ Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 <a href="https://openreview.net/forum?id=SEh5SfEQtqB" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/CownowAn/DaSS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 **Hayeon Lee\***, Sohyun An\*, Minseon Kim, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2023, <span style="color:darkred">Spotlight</span> (notable-top-25%) 
+<span style="color:darkred">**ICLR**</span> 2023, <span style="color:darkred">**Spotlight**</span> (notable-top-25%) 
 
 - Online Hyperparameter Meta-Learning with Hypergradient Distillation \\
 <a href="https://arxiv.org/abs/2110.02508" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Hae Beom Lee, **Hayeon Lee**, Jaewoong Shin, Eunho Yang, Timothy Hospedales, Sung Ju Hwang \\
-<span style="color:darkred">**ICLR**</span> 2022, <span style="color:darkred">Spotlight</span> (acceptance = 176 / 3391 = 5.1%) 
+<span style="color:darkred">**ICLR**</span> 2022, <span style="color:darkred">**Spotlight**</span> (acceptance = 176 / 3391 = 5.1%) 
 
 - HELP: Hardware-Adaptive Efficient Latency Prediction for NAS via Meta-Learning \\
 <a href="https://arxiv.org/abs/2106.08630" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/HayeonLee/HELP" style="color: #7289da; text-decoration: none;">[code]</a> \\
 **Hayeon Lee\***, Sewoong Lee\*, Song Chong, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">Spotlight</span> (acceptance < 3%)
+<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">**Spotlight**</span> (acceptance < 3%)
 
 - Task-Adaptive Neural Network Search with Meta-Contrastive Learning \\
 <a href="https://arxiv.org/abs/2103.01495" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/wyjeong/TANS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">Spotlight</span> (acceptance < 3%) 
+<span style="color:darkred">**NeurIPS**</span> 2021, <span style="color:darkred">**Spotlight**</span> (acceptance < 3%) 
 
 - Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets \\
 <a href="https://openreview.net/forum?id=rkQuFUmUOg3" style="color: #7289da; text-decoration: none;">[paper]</a>
@@ -130,7 +132,7 @@ Wonyong Jeong\*, **Hayeon Lee\***, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sun
 <a href="https://openreview.net/pdf?id=rkeZIJBYvr" style="color: #7289da; text-decoration: none;">[paper]</a>
 <a href="https://github.com/haebeom-lee/l2b" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2020, <span style="color:darkred">Oral</span> (acceptance = 48/2594 = 1.9%)
+<span style="color:darkred">**ICLR**</span> 2020, <span style="color:darkred">**Oral**</span> (acceptance = 48/2594 = 1.9%)
 
 ## Domestic Conference Publication
 
