@@ -17,7 +17,7 @@ My research interest includes:
 
 
 ## News
-1. 2024. One paper accepted to ICLR 2024 \\
+01. 2024. One paper accepted to ICLR 2024 \\
 10. 2023. One paper accepted to Findings of EMNLP 2023 \\
 09. 2023. I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
 09. 2023. Keynote at AutoML conference 2023, Germany \\
@@ -84,10 +84,10 @@ Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 <span style="color:darkred">**Arxiv**</span> 2022
 
 ## International Conference Publications
-- DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models \\
+- DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models \\
 <a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Sohyun An* **Hayeon Lee\*** Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2024 (to be appeared)
+<span style="color:darkred">**ICLR**</span> 2024 
 
 - Co-training and Co-distillation for Quality Improvement and Compression of Language Models \\
 <a href="https://arxiv.org/abs/2311.02849" style="color: #7289da; text-decoration: none;">[paper]</a> \\
