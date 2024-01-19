@@ -18,20 +18,20 @@ My research interest includes:
 
 ## News
 *2024. 01.* One paper accepted to ICLR 2024 \\
-2023. 10. One paper accepted to Findings of EMNLP 2023 \\
-2023. 09. I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
-2023. 09. Keynote at AutoML conference 2023, Germany \\
-2023. 05. Hayeon successfully defended her Ph.D. \\
-2023. 05. One paper accepted to Findings of ACL 2023 \\
-2023. 04. Google Travel Grant for ICLR 2023 from Google \\
-2023. 02. Selected as the online experience chair for the AutoML conference 2023 \\
-2023. 01. AI/CS/EE Rising Stars 2023 supported by Google Explore Computer Science Research \\
-2023. 01. One paper accepted to ICLR 2023 as <span style="color:darkred">Notable-top-25% - Spotlight Presentation</span> \\
-2022. 10. NeurIPS2022 Top reviewer \\
-2022. 09. Google Ph.D. fellowship \\
-2022. 08. Research internship at MetaAI, Seattle, WA, USA \\
-2022. 02. AI/CS/EE Rising Stars 2022 supported by Google Explore Computer Science Research \\
-2022. 01. One paper accepted to ICLR 2022 as <span style="color:darkred">Spotlight Presentation</span>
+*2023. 10.* One paper accepted to Findings of EMNLP 2023 \\
+*2023. 09.* I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
+*2023. 09.* Keynote at AutoML conference 2023, Germany \\
+*2023. 05.* Hayeon successfully defended her Ph.D. \\
+*2023. 05.* One paper accepted to Findings of ACL 2023 \\
+*2023. 04.* Google Travel Grant for ICLR 2023 from Google \\
+*2023. 02.* Selected as the online experience chair for the AutoML conference 2023 \\
+*2023. 01.* AI/CS/EE Rising Stars 2023 supported by Google Explore Computer Science Research \\
+*2023. 01.* One paper accepted to ICLR 2023 as <span style="color:darkred">Notable-top-25% - Spotlight Presentation</span> \\
+*2022. 10.* NeurIPS2022 Top reviewer \\
+*2022. 09.* Google Ph.D. fellowship \\
+*2022. 08.* Research internship at MetaAI, Seattle, WA, USA \\
+*2022. 02.* AI/CS/EE Rising Stars 2022 supported by Google Explore Computer Science Research \\
+*2022. 01.* One paper accepted to ICLR 2022 as <span style="color:darkred">Spotlight Presentation</span>
 
 
 ## Education
