@@ -81,7 +81,7 @@ ICLR, 2020
 - SuperNet in Neural Architecture Search: A Taxonomic Survey \\
 <a href="https://arxiv.org/abs/2204.03916" style="color: #7289da; text-decoration: none;">[paper]</a> \\
 Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
-<span style="color:darkred">**Arxiv**</span> 2022
+<span style="color:darkred">**Arxiv 2022**</span>
 
 ## International Conference Publications
 - DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models \\
