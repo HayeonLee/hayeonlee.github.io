@@ -180,8 +180,12 @@ AutoML 2022 Workshop
 
 
 ## Academic Services
+**Conference Organizer**
+- Online Experience Chair, AutoML Conference 2023
+- Area Chiar, AutoML Conference 2024
+
 **Conference Reviewer**
-- ICML 2020, 2021 (expert), 2022, 2023
+- ICML 2020, 2021 (expert), 2022, 2023, 2024
 - NeurIPS 2020, 2021, 2022, 2023
 - ICLR 2021, 2022, 2023, 2024
 - ACL 2022 Dec ARR.
@@ -189,12 +193,9 @@ AutoML 2022 Workshop
 - AAAI 2021
 - ACML 2020
 
-
 **Journal Reviewer**
 - Transactions on Machine Learning Research (TMLR)
 
-**Conference Organizer**
-- Online Experience Chair, AutoML Conference 2023
 
 ## Projects
 - Human-Inspired Large-Scale Visual Recognition System, Samsung Electronics, 2019-2022
