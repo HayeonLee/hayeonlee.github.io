@@ -180,9 +180,12 @@ AutoML 2022 Workshop
 
 
 ## Academic Services
-**Conference Organizer**
-- Online Experience Chair, AutoML Conference 2023
-- Area Chiar, AutoML Conference 2024
+
+**Area Chiar**
+- AutoML 2024
+
+**Online Experience Chair**
+- AutoML 2023
 
 **Conference Reviewer**
 - ICML 2020, 2021 (expert), 2022, 2023, 2024
