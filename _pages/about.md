@@ -181,7 +181,7 @@ AutoML 2022 Workshop
 
 ## Academic Services
 
-**Area Chiar**
+**Area Chair**
 - AutoML 2024
 
 **Online Experience Chair**
