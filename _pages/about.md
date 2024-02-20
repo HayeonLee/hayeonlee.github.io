@@ -17,7 +17,7 @@ My research interest includes:
 
 
 ## News
-*2024. 02.* Won the best Ph.D. Dissertation Award from the KAIST College of Engineering and School of Computing \\
+*2024. 02.* The best Ph.D. Dissertation Award from the KAIST College of Engineering and School of Computing \\
 *2024. 01.* One paper accepted to ICLR 2024 \\
 *2023. 10.* One paper accepted to Findings of EMNLP 2023 \\
 *2023. 09.* I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
