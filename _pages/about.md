@@ -17,6 +17,7 @@ My research interest includes:
 
 
 ## News
+*2024. 02.* Hayeon won the best Ph.D. Dissertation Award from the KAIST College of Engineering and School of Computing! \\
 *2024. 01.* One paper accepted to ICLR 2024 \\
 *2023. 10.* One paper accepted to Findings of EMNLP 2023 \\
 *2023. 09.* I joined FAIR Labs at Meta AI as a postdoctoral researcher, working with Yuandong Tian. \\
@@ -46,6 +47,10 @@ Mar. 2012 - Feb. 2016
 
 
 ## Awards & Honors
+- Best Ph.D. Dissertation Award \\
+For the top 9 out of 756 (1%) Ph.D. dissertations, College of Engineering, KAIST, 2024
+- Best Ph.D. Dissertation Award \\
+For the top 1 out of 23 (4%) Ph.D. dissertations, School of Computing, KAIST, 2024
 - Google Travel Grant \\
 ICLR, 2023
 - <a href="https://2023.automl.cc/" style="color: #7289da; text-decoration: none;">Keynote Speaker</a> \\
