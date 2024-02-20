@@ -37,7 +37,10 @@ My research interest includes:
 
 ## Education
 - Ph.D. in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">Korea Advanced Institute of Science and Technology (KAIST)</a> \\
-Mar. 2018 - Aug. 2023
+Mar. 2018 - Aug. 2023 \\
+Dissertation Title: "Efficient and Generalizable Neural Architecture Search for the Real World" \\
+(Best Ph.D. Dissertation Award from both School of Computing & College of Engineering) \\
+Committee: <a href="http://www.sungjuhwang.com/"; text-decoration: none;">Sung Ju Hwang</a>, Eunho Yang, Se-Young Yun, Frank Hutter, Cho-Jui Hsieh
   
 - M.S. in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">Korea Advanced Institute of Science and Technology (KAIST)</a> \\
 Mar. 2016 - Feb. 2018
