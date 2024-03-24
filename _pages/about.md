@@ -93,7 +93,8 @@ Stephen Cha, Taehyeon Kim, **Hayeon Lee**, Se-Young Yun \\
 
 ## International Conference Publications
 - DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models \\
-<a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a> \\
+<a href="https://arxiv.org/abs/2305.16943" style="color: #7289da; text-decoration: none;">[paper]</a>
+<a href="https://github.com/CownowAn/DiffusionNAG" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Sohyun An* **Hayeon Lee\*** Jaehyeong Jo Seanie Lee Sung Ju Hwang (\*: equal contribution) \\
 <span style="color:darkred">**ICLR 2024**</span>
 
