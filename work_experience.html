@@ -1,1 +1,74 @@
+<script>
+  let pcallCounter = 22;
+  function addPCBContent(name_,
+                        year_,
+                        title_, 
+                        img_, 
+                        author_, 
+                        bib_author_, 
+                        venue_, 
+                        venue_full_name_, 
+                        project_='None', 
+                        paper_='None',
+                        code_='None') {
+    const pcontainer = document.getElementById('pcontent-container'); // Assuming you have a div with this ID to hold the content
+    const phtmlContent = `
+      <div class="row mt-2">
+        <div class="col-md-1 pb-3 text-md-right text-left"></div>
+        <div class="col-md-3 col-sm-11 pb-3 text-md-right text-left">
+          <img class="img-fluid rounded paper-img" src="./materials/concept_figures/${img_}" alt="concept" >
+        </div>
+        <div class="col-md-7 col-sm-12 text-md-left text-center">              
+          <div class="col text-left text-md-left">
+            <h6 class="darkgray"><b>[C${pcallCounter}] ${title_}</b></h6>
+            <h6 class="ssmall authors">${author_.replace('Jaehong Yoon', '<u><b>Jaehong Yoon</b></u>')}</h6>
+            <h6>
+              <span class="conf" style="margin-top: 0em; margin-bottom: 0em">
+                ${venue_} ${year_}</span><br>
+              <a href="${project_}" target="_blank"><b class="badge badge-white">Project Page</b></a>
+              <a href="${paper_}" target="_blank"><b class="badge badge-white">Paper</b></a>
+              <a href="${code_}" target="_blank"><b class="badge badge-white">Code</b></a>
+              <a type="button" class="badge badge-white" href="javascript:void(0)" onclick="show('cbib${title_.replace(/\s+/g, '')}')">
+                Bibtex</a>          
+              <div id="cbib${title_.replace(/\s+/g, '')}" class="popup">
+                @inproceedings{${name_},<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;title={${title_}},<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;author={${bib_author_}},<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;booktitle={${venue_full_name_}},<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;year={${year_}},<br>                
+                }
+              </div>       
+            </h6>
+          </div>                            
+        </div>
+      </div>
+      `;
+    pcallCounter--;
+    pcontainer.innerHTML += phtmlContent;
+  }
+</script>    
+
+<h3 class="secfont text-md-left">Publications</h3>
+<p class="ssmall authors">(*: equal contribution)            
+  </p><br>
+  <div class="row mt-2">
+    <section id="icml22"></section>     
+    <div class="col-md-1 pb-3 text-md-right text-left"></div>
+    <div class="col-md-3 col-sm-11 pb-3 text-md-right text-left">
+      <img class="img-fluid rounded paper-img" src="./materials/concept_figures/prowd.png" alt="concept" >
+    </div>
+    <div class="col-md-7 col-sm-12 text-md-left text-center">         
+      <div class="col text-left text-md-left">
+        <h6 class="darkgray"><b>[C9] DiffusionNAG: Predictor-guided Neural Architecture Generation with Diffusion Models</b></h6>
+        <p class="ssmall authors">Sohyun An*, <u><b>Hayeon Lee</b></u>*, and Sung Ju Hwang</p>
+        <h6 class="conf">ICLR 2024</h6>    
+        <h6 class="black">
+          <a href="https://arxiv.org/abs/2305.16943" target="_blank"><span class="badge badge-white">Paper</span></a>
+          <a href="https://github.com/CownowAn/DiffusionNAG" target="_blank"><span class="badge badge-white">Code</span></a>
+        </h6>            
+      </div>              
+    </div>
+  </div>         
+
+
 
